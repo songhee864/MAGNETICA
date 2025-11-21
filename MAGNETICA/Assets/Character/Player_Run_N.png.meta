@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 2e48f33bc3d98d843bfcf6537c17918b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7896348259116141218
+    second: Player_Run_N_0
+  - first:
+      213: -8462824902348053433
+    second: Player_Run_N_1
+  - first:
+      213: -7921788536269309103
+    second: Player_Run_N_2
+  - first:
+      213: -768352194974791268
+    second: Player_Run_N_3
+  - first:
+      213: -6967132386342237554
+    second: Player_Run_N_4
+  - first:
+      213: -6763161247389070862
+    second: Player_Run_N_5
+  - first:
+      213: -3805570391860281466
+    second: Player_Run_N_6
+  - first:
+      213: 5575337588488966727
+    second: Player_Run_N_7
+  - first:
+      213: -5806364776056639121
+    second: Player_Run_N_8
+  - first:
+      213: 1095959254513101822
+    second: Player_Run_N_9
+  - first:
+      213: -2357145500137598058
+    second: Player_Run_N_10
+  - first:
+      213: 2891275977830619794
+    second: Player_Run_N_11
+  - first:
+      213: 6833963201330128709
+    second: Player_Run_N_12
+  - first:
+      213: 3018766320970742545
+    second: Player_Run_N_13
+  - first:
+      213: -4996902673705323725
+    second: Player_Run_N_14
+  - first:
+      213: 6508702405665367729
+    second: Player_Run_N_15
+  - first:
+      213: -2241739427750116368
+    second: Player_Run_N_16
+  - first:
+      213: 5417663526135638289
+    second: Player_Run_N_17
+  - first:
+      213: -7225106262636035011
+    second: Player_Run_N_18
+  - first:
+      213: 1442710272213320247
+    second: Player_Run_N_19
+  - first:
+      213: 5685488485238471375
+    second: Player_Run_N_20
+  - first:
+      213: -8904970129031804705
+    second: Player_Run_N_21
+  - first:
+      213: 6630132246394029072
+    second: Player_Run_N_22
+  - first:
+      213: -2227146331369310219
+    second: Player_Run_N_23
+  - first:
+      213: 767429692476454008
+    second: Player_Run_N_24
+  - first:
+      213: -2200644924980545070
+    second: Player_Run_N_25
+  - first:
+      213: -1796015124868084494
+    second: Player_Run_N_26
+  - first:
+      213: -8892209602379244556
+    second: Player_Run_N_27
+  - first:
+      213: -8576456928832560420
+    second: Player_Run_N_28
+  - first:
+      213: -4144716258918017965
+    second: Player_Run_N_29
+  - first:
+      213: -1593668364614300407
+    second: Player_Run_N_30
+  - first:
+      213: -5181733974622583083
+    second: Player_Run_N_31
+  - first:
+      213: 5248880711055043119
+    second: Player_Run_N_32
+  - first:
+      213: -3913610007087764601
+    second: Player_Run_N_33
+  - first:
+      213: -3414664232408946913
+    second: Player_Run_N_34
+  - first:
+      213: 17613403212987634
+    second: Player_Run_N_35
+  - first:
+      213: 6634760181022995601
+    second: Player_Run_N_36
+  - first:
+      213: -8134217704091872955
+    second: Player_Run_N_37
+  - first:
+      213: 358374697798398222
+    second: Player_Run_N_38
+  - first:
+      213: -6120050203837458181
+    second: Player_Run_N_39
+  - first:
+      213: -3159591350638867923
+    second: Player_Run_N_40
+  - first:
+      213: 4850370677749598176
+    second: Player_Run_N_41
+  - first:
+      213: 8191965444463739202
+    second: Player_Run_N_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Run_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 1860
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf79d9c75bf5564990653de3a6c26ba
+      internalID: 1538115283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_N_1
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1220
+        width: 1860
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79e89b56f49d24f8fce4f5fbda5088
+      internalID: -42055287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_N_2
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1220
+        width: 1860
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed037973ac2a8b142a4c1b42f5fb743b
+      internalID: -1167513863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_N_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1860
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1469517fcc82894ab07c0b365fd0bd8
+      internalID: -348383345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_N_4
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 0
+        width: 1860
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b74aba1815b64f4c8987d91c9e5c1e9
+      internalID: -220104487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Run_N_5
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 0
+        width: 1860
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f55e4cef340dc5478d61df8e63d17d2
+      internalID: 1284587757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ceebd586b2913ba42a201b98348ff4fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Player_Run_N_0: 1538115283
+      Player_Run_N_1: -42055287
+      Player_Run_N_2: -1167513863
+      Player_Run_N_3: -348383345
+      Player_Run_N_4: -220104487
+      Player_Run_N_5: 1284587757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
