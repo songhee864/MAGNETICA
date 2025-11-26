@@ -26,7 +26,7 @@ public class BackgroundSpawner : MonoBehaviour
 
     void Update()
     {
-        if (nextPosition.x > 3635f) return;
+        if (nextPosition.x > 3750f) return;
 
         if (Time.time >= nextSpawnTime)
         {
